@@ -1,0 +1,30 @@
+body{
+    margin: 100px;
+}
+
+.elemetor{
+    width: 700px;
+    margin: auto;
+}
+input#elemetorText {
+    width: 70% !IMPORTANT;
+    padding: 20px;
+    
+}
+.div1{
+    height:100px;
+}
+input#elemetorColor {
+    margin-top: 20px;
+    /* width: 50px !IMPORTANT; */
+}
+
+.div1 {
+    height: 100px;
+    justify-content: flex-end;
+    /* justify-items: center; */
+    justify-self: center;
+    display: flex;
+    align-content: space-between;
+    flex-direction: column;
+}
